@@ -30,5 +30,7 @@ public class AnimalApp {
       System.out.println(animal.age);
       System.out.println(animal.phone);
     }
+
+    System.out.println(ani1.name + " is " + ani1.age + " years old!");
   }
 }
