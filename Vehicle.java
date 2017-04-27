@@ -3,5 +3,5 @@ class Vehicle {
   public String mBrand;
   public String mModel;
   public int mMiles;
-  public int mPricel
+  public int mPrice;
 }
